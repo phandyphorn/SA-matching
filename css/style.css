@@ -1,0 +1,22 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Dancing Script', cursive;
+}
+.container {
+    text-align: center;
+    
+}
+.imgvi {
+    display: flex;
+    
+}
+img {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    border-radius: 20px;
+}
+iframe {
+    border-radius: 20px;
+}
